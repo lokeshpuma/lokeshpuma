@@ -85,12 +85,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lokeshpuma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="lokeshpuma's GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshpuma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=lokeshpuma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="lokeshpuma's GitHub stats"/>
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=lokeshpuma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshpuma&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=lokeshpuma&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lokeshpuma&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="90%"/>
+<img src="https://activity-graph.vercel.app/graph?username=lokeshpuma&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="90%"/>
 
 </div>
 
@@ -99,7 +99,7 @@
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=lokeshpuma&theme=tokyonight&no-frame=true&row=1&column=7" alt="lokeshpuma's trophies"/>
+<img src="https://github-trophies.devomb.com/?username=lokeshpuma&theme=tokyonight&no-frame=true&row=1&column=7" alt="lokeshpuma's trophies"/>
 </div>
 
 <br/>
@@ -108,13 +108,13 @@
 
 <div align="center">
 
-<!--START_SECTION:snake-->
-<img src="https://raw.githubusercontent.com/lokeshpuma/lokeshpuma/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation"/>
-<!--END_SECTION:snake-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lokeshpuma/lokeshpuma/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lokeshpuma/lokeshpuma/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/lokeshpuma/lokeshpuma/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
 
 </div>
-
-> To make the snake above render, add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to this repo — see setup notes at the bottom.
 
 <br/>
 
